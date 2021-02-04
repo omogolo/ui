@@ -7,7 +7,7 @@
 ![Last Commit](https://badgen.net/github/last-commit/ohmyform/ui)
 
 [ohmyform Demo](https://demo.ohmyform.com/login)
-[Focus Surveys](https://focussurveys.herokuapp.com/login)
+| [Focus Surveys](https://focussurveys.herokuapp.com/login)
 
 > An *open source alternative to TypeForm* that can create stunning mobile-ready forms, surveys and questionnaires.
 
