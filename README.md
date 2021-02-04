@@ -6,7 +6,8 @@
 [![Lokalise](https://badgen.net/badge/Lokalise/EN/green?icon=libraries)](https://app.lokalise.com/public/379418475ede5d5c6937b0.31012044/)
 ![Last Commit](https://badgen.net/github/last-commit/ohmyform/ui)
 
-[Demo](https://demo.ohmyform.com/login)
+[ohmyform Demo](https://demo.ohmyform.com/login)
+[Focus Surveys](https://focussurveys.herokuapp.com/login)
 
 > An *open source alternative to TypeForm* that can create stunning mobile-ready forms, surveys and questionnaires.
 
